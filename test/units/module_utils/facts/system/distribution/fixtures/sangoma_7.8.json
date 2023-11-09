@@ -1,0 +1,44 @@
+{
+    "name": "Sangoma 7.8",
+    "distro": {
+        "codename": "",
+        "id": "sangoma",
+        "name": "Sangoma Linux",
+        "version": "7",
+        "version_best": "7.8.2003",
+        "lsb_release_info": {},
+        "os_release_info": {
+            "name": "Sangoma Linux",
+            "version": "7 (Core)",
+            "id": "sangoma",
+            "id_like": "centos rhel fedora",
+            "version_id": "7",
+            "pretty_name": "Sangoma Linux 7 (Core)",
+            "ansi_color": "0;31",
+            "cpe_name": "cpe:/o:sangoma:sng:7::server:utf8",
+            "home_url": "https://distro.sangoma.net/",
+            "bug_report_url": "https://issues.sangoma.net/",
+            "centos_mantisbt_project": "Sangoma-7",
+            "centos_mantisbt_project_version": "7",
+            "redhat_support_product": "sangoma",
+            "redhat_support_product_version": "7"
+        }
+    },
+    "input": {
+        "/etc/redhat-release": "Sangoma Linux release 7.8.2003 (Core)\n",
+        "/etc/system-release": "Sangoma Linux release 7.8.2003 (Core)\n",
+        "/etc/os-release": "NAME=\"Sangoma Linux\"\nVERSION=\"7 (Core)\"\nID=\"sangoma\"\nID_LIKE=\"centos rhel fedora\"\nVERSION_ID=\"7\"\nPRETTY_NAME=\"Sangoma Linux 7 (Core)\"\nANSI_COLOR=\"0;31\"\nCPE_NAME=\"cpe:/o:sangoma:sng:7::server:utf8\"\nHOME_URL=\"https://distro.sangoma.net/\"\nBUG_REPORT_URL=\"https://issues.sangoma.net/\"\n\nCENTOS_MANTISBT_PROJECT=\"Sangoma-7\"\nCENTOS_MANTISBT_PROJECT_VERSION=\"7\"\nREDHAT_SUPPORT_PRODUCT=\"sangoma\"\nREDHAT_SUPPORT_PRODUCT_VERSION=\"7\"\n\n"
+    },
+    "platform.dist": [
+        "sangoma",
+        "7",
+        ""
+    ],
+    "result": {
+        "distribution_release": "NA",
+        "distribution": "Sangoma Linux",
+        "distribution_version": "7.8",
+        "distribution_major_version": "7",
+        "os_family": "RedHat"
+    }
+}
